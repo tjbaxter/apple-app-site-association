@@ -1,0 +1,11 @@
+{
+  "applinks": {
+    "apps": [],
+    "details": [
+      {
+        "appID": "F7YRP3B2U8.Baxter.Flair",
+        "paths": [ "/@", "/@*" ]
+      }
+    ]
+  }
+}
